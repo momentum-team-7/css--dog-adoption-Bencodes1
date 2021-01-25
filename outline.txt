@@ -1,0 +1,6 @@
+figure out fonts (check slack chat)
+do html, add dogs, make each one an item on a list?
+
+
+
+1. div, 2. list
